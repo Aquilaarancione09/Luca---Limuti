@@ -37,15 +37,12 @@ border-radius: 5px;
 .header{
   background:#333;
   width: 100%;
-  display: table;
-  height: 5%;
 }
 .header__logo{
-  display: table;
+  display: inline-block;
   height: 4.5%;
   width: 4.5%;
   float: left;
-  z-index: 100000
 }
 
 .header__logo__due{
@@ -84,7 +81,7 @@ border-radius: 5px;
       cover
 -----------------*/
 .cover{height: 94% ;
-background-image: url(./immagini/background.png);
+background-image: url(/Users/lucalimuti/Desktop/Sito/immagini/background.png);
 background-size: 100%;
 position: relative;
 }
