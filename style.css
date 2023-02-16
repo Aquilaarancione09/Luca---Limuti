@@ -84,7 +84,7 @@ border-radius: 5px;
       cover
 -----------------*/
 .cover{height: 94% ;
-background-image: url(background.png);
+background-image: url(background.jpg);
 background-size: 100%;
 position: relative;
 }
